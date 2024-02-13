@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Transformative Impact of Generative AI on Startups and Venture Capital"
-date:   2024-02-12 18:00:00 +0900
+date:   2024-02-12 17:00:00 +0900
 categories: jekyll update
 ---
 
